@@ -5,4 +5,8 @@ Defects on MoS2 inclue clusters, impurities and holes. By applying deep learning
 
 
 ## Experimental Result
+- Red area: impurity  
+- Green area: hole  
+- Blue: cluster  
+
 <img src="/images/prediction_result_1.png" width="600" height="800">
